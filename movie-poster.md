@@ -30,37 +30,37 @@ At each step, save and commit your work in GitHub Desktop.
 Before you open any AI tools, plan your vision. This is your anchor—return to it after every AI generation.
 
 **Your Movie Choice:**  
-- **Movie Title:**  
+- **Movie Title:** Lala Land
 - **Why I chose this movie:**  
-
+I chose this movie because the colors in this film are vibrant, and the cinematographer has a very unique style of filming 
 **Core Emotion:**  
 What ONE feeling should a viewer get from your poster? (Examples: wonder, fear, joy, excitement, mystery, tension, nostalgia)  
 - **Core emotion:**  
+The core emotion that I want my viewer to feel is nostalgia and joy
 
 **Essential Visual Element:**  
 What ONE image, object, or visual MUST appear on your poster?  
-- **Essential element:**  
+- **Essential element:**  I want a very colorful poster, and I want the Emma (main female) to be onstage in her iconic yellow dress doing what she loves, and I want Ryan gosling to be watching her onstage
 - **Why this element:**  
+This element is important because the central theme of the movie is the relationship between Emma and Ryan in Los Angeles and both of them wanting to follow their dreams 
 
 **What NOT to Include:**  
 What do you definitely NOT want? (This helps you evaluate AI outputs critically.)  
 - **Avoid:**  
+Tooo many colors, only red/yellow/green and DARK NAVY
 
 **Color Palette:**  
-- **Dominant color(s):**  
-- **Accent color(s):**  
+- **Dominant color(s):**  Dark navy and yellow
+- **Accent color(s):**  Red and green
 - **Overall mood:** (warm/cool/muted/vibrant/dark/bright)  
+Nightime in a jazz bar, warm simplistic 
 
 **Composition:**  
-- [ ] Close-up (face/detail)  
-- [ ] Wide shot (landscape/setting)  
-- [ ] Medium shot (full figure)  
-- [ ] Object/symbol centered  
-- [ ] Character collage  
+- [ ] Wide shot of Emma singing onstage in her iconic yellow dress, with Ryan gosling looking up at her and "Seb's" on a LED sign  
+
 
 - **Focal point description:**  
-
----
+Just Emma on the stage, centered 
 
 ## Step 2: AI Generation – First Attempts
 *(Commit message: "Documented first two AI attempts")*
