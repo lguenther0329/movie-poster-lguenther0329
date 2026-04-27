@@ -69,17 +69,28 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 
 **Attempt 1:**  
 - **My prompt:**  
+A vibrant, cinematic movie poster for a romantic drama. A woman in an iconic bright yellow A-line dress is performing on a theater stage under a warm golden spotlight. In the foreground, blurred and in silhouette, a man watches her with an expression of pride and nostalgia. The background is a dreamy, saturated twilight purple. Style: 1950s Technicolor musical aesthetic, high grain, romantic atmosphere, rich textures.
 
 - **What worked:**  
+Nailed Emma onstage and Ryan looking up at her
+
 - **What didn't work:**  
+Too many colors, more like a rainbow, and too cartoony
+
 - **What I'll change for next attempt:**  
+Less cartoons, and stick to mainly navy blue with her in a yellow dress, the iconic red LED sign saying "Seb's", and colors of green and red mixed in, but only one shade
 
 **Attempt 2:**  
 - **My prompt:**  
+Please regenerate, Less cartoons, and stick to mainly navy blue with her in a yellow dress, the iconic red LED sign saying "Seb's", and colors of green and red mixed in, but only one shade
 
 - **What worked:**  
+Colors were on point
 - **What didn't work:**  
+Still a little too cartoony for me, and want her pose to be more natural 
+
 - **What I'll change for next attempt:**  
+Still a little too cartoony for me, and want her pose to be more natural 
 
 ---
 
