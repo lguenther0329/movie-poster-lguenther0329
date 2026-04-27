@@ -133,14 +133,14 @@ Export your best AI generation and open it in Photoshop. You must make at least 
 **Modification Ideas:**
 - Crop or reframe the image  
 - Adjust colors, contrast, or brightness  
-- Add the movie title (typography matters!)  
-- Add a tagline  
+- Add the movie title (typography matters!)  --> Fixed font
+- Add a tagline --> added quote   
 - Combine elements from multiple AI generations  
 - Remove unwanted elements  
 
 **Your Modifications:**  
-1.  
-2.  
+1. Fixed font 
+2.  added quote   
 3. (optional)  
 
 **Save your final poster as:** `final-poster.jpg` or `final-poster.png`  
