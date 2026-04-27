@@ -101,19 +101,28 @@ Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
 - **My prompt:**  
+Please regenerate, Still a little too cartoony for me, and want her pose to be more natural 
 
 - **What worked:**  
+Much better in terms of cartoon-ness, and colors are great
 - **What didn't work:**  
+She looks a little unproportionall, and holding two microphones 
+
 - **What I'll change for next attempt:**  
+Remove the second microphone
 
 **Attempt 4:**  
 - **My prompt:**  
+Please regenerate, remove the second microphone 
 
 - **What worked:**  
+Second microphone was removed
+
 - **What didn't work:**  
+Ryan goslings pose is a little odd
 
 **Final AI Image Selected:** (Which attempt? Why?)  
-
+I picked my final step, because the colors were correct and everyone looks the most natural 
 ---
 
 ## Step 4: Photoshop Modifications
