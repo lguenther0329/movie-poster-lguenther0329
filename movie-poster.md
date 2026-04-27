@@ -146,6 +146,7 @@ Export your best AI generation and open it in Photoshop. You must make at least 
 **Save your final poster as:** `final-poster.jpg` or `final-poster.png`  
 **Drag your final poster file into your GitHub repo folder before committing.**
 
+Done
 ---
 
 ## Step 5: Reflection
@@ -154,12 +155,13 @@ Export your best AI generation and open it in Photoshop. You must make at least 
 **How did your vision evolve?**  
 Compare your original creative brief to your final poster. What changed? What stayed the same?  
 
+The overall mood/style changed. The vibrant and rainbow color scheme went away, and it resembles a more neutral and "lalaland" type color scheme
 
 **What decision are you most proud of that the AI didn't make for you?**  
-
+The move to make Emma the main focus in her yellow dress
 
 **What would you do differently next time?**  
-
+Next time, I would probably make the initial prompt more specific because it made decisions for me that I would not have thought of 
 
 ---
 
